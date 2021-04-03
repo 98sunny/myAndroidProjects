@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971878176598",
+    "firebase_url": "https://fir-sart-default-rtdb.firebaseio.com",
+    "project_id": "fir-sart",
+    "storage_bucket": "fir-sart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971878176598:android:25a3a6b34ea26e1a02e8f7",
+        "android_client_info": {
+          "package_name": "com.example.firebasesart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971878176598-4l7nqlngg444qniqkjv2s31sak5amgmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcXfifIHlDkQTXH2WP9LkXBtfy_kW3QSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971878176598-4l7nqlngg444qniqkjv2s31sak5amgmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
