@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoCamera</string>
+
+
+    <string name="edittext_share">This is Android Intent Demo</string>
+    <string name="button_share">Share This Text</string>
+</resources>
